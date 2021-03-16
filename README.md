@@ -1,1 +1,4 @@
 # Cluster-Analysis-of-Customers
+The objective of this experiment is to analyze a dataset consisting of customer data at a fictional shopping center and perform cluster analysis using several clustering methods. The methods we will explore are: k-Means, Affinity Propagation, and DBSCAN. We will then use silhouette score to assess the quality of each clustering algorithm and compare the three chosen algorithms.  
+
+The tools used for this analysis will include the Python programming language, pandas module, and sklearn module. The pandas module will assist with handling our data from ingestion to cleaning and general data manipulation tasks. The sklearn module will assist in our statistical efforts such as determining our variable distribution, normalization of our data, methods of validating the experiment, as well as our models for classification.  
